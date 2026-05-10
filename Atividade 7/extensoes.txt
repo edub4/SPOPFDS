@@ -1,0 +1,21 @@
+Temas muito usados
+-One Dark Pro
+-Dracula Official
+-Tokyo Night
+-Catppuccin
+
+Extensões para produtividade
+-GitLens : Histórico Git avançado.
+-Thunder Client : Alternativa leve ao Postman.
+-Docker : Controle de containers no VS Code.
+-Todo Tree : Organiza comentários TODO/FIXME.
+
+extensões basicas
+Prettier : Formata o código automaticamente.
+ESLint : Mostra erros e ajuda a manter código limpo.
+Live Server : Atualiza o navegador automaticamente.
+Auto Rename Tag : Renomeia tags HTML automaticamente.
+Path Intellisense : Autocompleta caminhos de arquivos.
+Material Icon Theme : Deixa as pastas e arquivos organizados visualmente.
+Error Lens : Mostra erros direto na linha do código.
+GitLens : Facilita usar Git e ver alterações.
